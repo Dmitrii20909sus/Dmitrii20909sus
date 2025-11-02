@@ -1,8 +1,22 @@
 ## What's up bro 👋
 
-<!--
-**Dmitrii20909sus/Dmitrii20909sus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👤 About me 
 -  🏋‍♂️,  🥊, 💻, ☦️, 👪
-- 📫 How to reach me: @dimon_chad69 (Telegram)
-- ⚡ Fun fact: Kristian must make Buzzcut and Emir stinkt:)
+  
+### 🛠 Tech Stack
+- Python 🐍
+- Blender 🖌️
+- Telegram Bots 🤖
+
+### 📫 Contacts
+[Telegram](https://t.me/dimon_chad69) | [Instagram](https://instagram.com/dima_rgb09)
+
+
+
+██████████  ██████     ██      ██  █████████         ████████  ██████  ████████  ██          ██      ██
+    ██      ██    ██   ██      ██  ██                ██          ██    ██        ██ ██    ██ ██    ██  ██
+    ██      ██████     ██      ██  █████████         ████████    ██    ██  ████  ██    ██    ██   ██    ██
+    ██      ██    ██   ██      ██  ██                      ██    ██    ██    ██  ██          ██  ██████████   
+    ██      ██     ██    ██████    █████████         ████████  ██████  ████████  ██          ██  ██      ██
+
 
